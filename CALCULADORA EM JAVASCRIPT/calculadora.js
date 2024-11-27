@@ -1,4 +1,5 @@
 //para atualizar display sempre que fizer um calculo
+console.log('teste')
 function atualizaDisplay(valor) {
     const visor = document.getElementById("visor");
     console.log(visor);
