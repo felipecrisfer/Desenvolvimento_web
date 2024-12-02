@@ -4,7 +4,7 @@ const PaginaHome = {
       <div class="container button-section">
         <h2>Saia agora do Pobre para o Meio Rico!</h2>
         <form>
-          <button type="submit" class="inscricao-btn">Inscreva-se</button>
+          <button type="submit" class="inscricao-btn"><a href="#form">Inscreva-se</button></a>
         </form>
       </div>
     
@@ -197,7 +197,7 @@ const PaginaHome = {
         </div>
     
         <!-- Formulário de Inscrição -->
-        <div class="container form-container">
+        <div class="container form-container" id="form">
           <h2>Formulário de Inscrição</h2>
           <form id="formInscricao" novalidate>
             <!-- Nome -->
