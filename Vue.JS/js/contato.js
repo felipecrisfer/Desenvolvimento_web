@@ -75,7 +75,7 @@ const PaginaContato = {
                         <p class="card-text">Supervisor de TI</p>
                         <p><strong>Telefone:</strong> (41) 91234-6789</p>
                         <p>
-                        <a href="https:" target="_blank"><img src="Imagens/linkedin.png" style="height: 40px; width: 40px;"></a>
+                        <a href="https://www.linkedin.com/in/victor-araújo-batista-310894246/" target="_blank"><img src="Imagens/linkedin.png" style="height: 40px; width: 40px;"></a>
                         <a href="https://www.instagram.com/victor.dll/" target="_blank"><img src="Imagens/insta.png" style="height: 40px; width: 40px;"></a>
                         </p>
                     </div>
